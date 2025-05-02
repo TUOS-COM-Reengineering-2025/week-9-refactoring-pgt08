@@ -43,7 +43,7 @@ The following list of refactoring techniques might be useful:
 
 ## Mini Report
 
-After completing the above task, push the changes to the repository and include a short report to summarise what you have done for the task. 
+After completing the above task, push the changes to the repository and include a short report to summarise what you have done for the task.
 
 Your discussions/reflections are also recommended. For example, you can discuss the following points:
 - What refactoring techniques did you apply?
