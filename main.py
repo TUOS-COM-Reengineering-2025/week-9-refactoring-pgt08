@@ -61,5 +61,3 @@ class CustomerManager:
             return 50
         else:
             return default
-
-flat_tax = 0.2
