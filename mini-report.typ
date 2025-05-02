@@ -8,5 +8,6 @@
 
 == Main.py changes
 
+- Renamed variables in `generate_report` to be more readable.
 - Merged the calculation for heavy and fragile items
 - Removed redundant variables and functions at module level
